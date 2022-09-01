@@ -1,6 +1,6 @@
 streamlit 
 pandas==1.0.4
-pystan
+pystan==2.14
 fbprophet 
 yfinance 
 plotly 
